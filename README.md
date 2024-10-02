@@ -1,7 +1,7 @@
-# PicoGuitar
+# PicoHero (PicoGuitar Fork)
 Small project to interface a Wii Guitar Hero controller to a PC using a Raspberry Pi Pico.
 
-<img src="PicoGuitar_adapter.jpg" alt="Adapter pictures" width="600"/>
+<img src="https://raw.githubusercontent.com/v4rgas/PicoHero/refs/heads/main/PicoGuitar_adapter.jpg" alt="Adapter pictures" width="600"/>
 
 ## Hardware required
 - Raspberry Pi Pico

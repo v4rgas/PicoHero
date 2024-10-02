@@ -26,9 +26,7 @@ Having the wires mapped, solder/connect the wires to the Raspberry Pi Pico like 
 |Pin 5 (SDA)     |-> |GP4 pin          |
 |Pin 6 (ground)  |-> |Any GND pin      |
 
-![female connector](nunchuck_port.png)
-
-_[image source](https://en.wikipedia.org/wiki/File:Conectores_nunchuk_wiimote.png) - CC BY-SA 3.0_
+![female connector](https://raw.githubusercontent.com/v4rgas/PicoHero/main/nunchuck_port.png)
 
 ## Comments
 At the top of the sketch, you will find some constants for the whammy bar and for both axis of the analog stick. In my guitar these are the minimum and maximum values returned by WiiChuck, but I don't know if these are the same across all guitars, or if mine is just returning weird values. There is an example sketch included with the WiiChuck library which you can use to determine these values for yours.
